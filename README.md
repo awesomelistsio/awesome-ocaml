@@ -26,7 +26,7 @@
 
 ### Core Libraries
 
-- [OCaml Standard Library](https://ocaml.org/manual/libref/index.html) - The official standard library of OCaml.
+- [OCaml Standard Library](https://ocaml.org/manual/stdlib.html) - The official standard library of OCaml.
 - [Base](https://github.com/janestreet/base) - A Jane Street alternative to the OCaml standard library with additional features and improvements.
 - [Core](https://github.com/janestreet/core) - An industrial-strength alternative standard library by Jane Street.
 - [Containers](https://github.com/c-cube/ocaml-containers) - A lightweight extension of the OCaml standard library.
@@ -58,7 +58,7 @@
 
 ### Graphics and Visualization
 
-- [Graphics](https://ocaml.org/manual/graphics.html) - The OCaml Graphics library for basic graphics operations.
+- [Graphics](https://ocaml.org/manual/4.11/libgraph.html) - The OCaml Graphics library for basic graphics operations.
 - [Vg](https://erratique.ch/software/vg) - A declarative 2D vector graphics library for OCaml.
 - [Plotkic](https://github.com/plotkic/plotkic) - A simple and lightweight plotting library for OCaml.
 
@@ -66,7 +66,7 @@
 
 - [OCamlFormat](https://github.com/ocaml-ppx/ocamlformat) - A tool for automatically formatting OCaml code.
 - [Merlin](https://github.com/ocaml/merlin) - An editor helper that provides autocompletion and type-checking for OCaml.
-- [utop](https://github.com/ocaml/utop) - An enhanced interactive toplevel (REPL) for OCaml with autocompletion.
+- [utop](https://github.com/ocaml-community/utop) - An enhanced interactive toplevel (REPL) for OCaml with autocompletion.
 - [dune](https://dune.build/) - A popular build system for OCaml projects, focused on simplicity and speed.
 
 ## Build Tools and Package Managers
